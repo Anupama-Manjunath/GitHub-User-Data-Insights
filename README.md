@@ -1,5 +1,7 @@
-# 22f3003253_tdsPA1
-Anupama Manjunath TDS Project 1
+# GitHub User Data Insights- 
+Anupama Manjunath IITM DS TDS Project 1
+
+Summary (TLDR): Used Python to scrape user data from the GitHub API, targeting Zurich-based users with over 50 followers. Extracted key details such as usernames, company affiliations, and repository information, storing the data in CSV files. Performed Exploratory Data Analysis (EDA) to identify top users, popular programming languages, and most-used Git licenses etc.
 
 **1. Data Scraping:**
 I used Python to scrape user data from the GitHub API by sending HTTP GET requests. The process involved retrieving users located in Zurich with over 50 followers, parsing the JSON responses to extract relevant fields like usernames, company affiliations, and repository details, and saving the data in CSV files for analysis.
